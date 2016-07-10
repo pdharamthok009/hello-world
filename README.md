@@ -2,4 +2,4 @@
 This is my first project and in the world of programming ..
 I am working in Service management in GE appliances a haier company.
 Would like to learn Pyton language here on github let's see how my journey goes.
-Deleting few changes to see results
+Deleting few changes to see results, lets see
